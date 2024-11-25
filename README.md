@@ -23,6 +23,30 @@ body{https://github.com/Admiris00/Hot-Messs-Part-2/issues/6#issue-2688147925
 .title {https://github.com/Admiris00/Hot-Messs-Part-2/issues/6#issue-2688147925
 	color: #5C6AC4;
 }https://codepen.io/Shannon-Amos/pen/mdNYWJZ----%20%7B0..0%7D%20---https://classroom.google.com/c/NzMyNDAwMTgzNTAx/p/NzM1Mjg4ODY0NTUy/details
+
+<!DOCTYPE html><!DOCTYPE html>https://github.com/Admiris00/Hot-Messs-Part-2/pull/3
+<html>
+  <head>
+    <title>https://github.com/Admiris00/Hot-Messs-Part-2/issues/6#issue-2688147925!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <h1 class="title">https://github.com/Admiris00/Hot-Messs-Part-2/issues/6#issue-2688147925 </h1>
+      <p id="currentTime"></p>
+      <script src="script.js"></script>
+  </body>
+</html>https://docs.google.com/presentation/d/1RPgVGxVjkITBU8g98cRnSKp1OvD68c
+<html>
+  <head>
+    <title>https://github.com/Admiris00/Hot-Messs-Part-2/issues/6#issue-2688147925!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <h1 class="title">https://github.com/Admiris00/Hot-Messs-Part-2/issues/6#issue-2688147925 </h1>
+      <p id="currentTime"></p>
+      <script src="script.js"></script>
+  </body>
+</html>https://docs.google.com/presentation/d/1RPgVGxVjkITBU8g98cRnSKp1OvD68curpbyMJIgK7nw/edit#slide=id.g318b0cc6c7e_1_13
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
