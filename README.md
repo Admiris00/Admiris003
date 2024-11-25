@@ -34,6 +34,10 @@ body{https://github.com/Admiris00/Hot-Messs-Part-2/issues/6#issue-2688147925
       <h1 class="title">https://github.com/Admiris00/Hot-Messs-Part-2/issues/6#issue-2688147925 </h1>
       <p id="currentTime"></p>
       <script src="script.js"></script>
+
+https://github.com/user-attachments/assets/fa68ee7e-5859-41c0-b01b-d0dddc49a587
+
+
   </body>
 </html>https://docs.google.com/presentation/d/1RPgVGxVjkITBU8g98cRnSKp1OvD68c
 <html>
