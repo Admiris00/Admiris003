@@ -49,6 +49,10 @@ https://github.com/user-attachments/assets/fa68ee7e-5859-41c0-b01b-d0dddc49a587
       <h1 class="title">https://github.com/Admiris00/Hot-Messs-Part-2/issues/6#issue-2688147925 </h1>
       <p id="currentTime"></p>
       <script src="script.js"></script>
+
+https://github.com/user-attachments/assets/10d4d16e-0572-43be-916b-f1f1a0de33e3
+
+
   </body>
 </html>https://docs.google.com/presentation/d/1RPgVGxVjkITBU8g98cRnSKp1OvD68curpbyMJIgK7nw/edit#slide=id.g318b0cc6c7e_1_13
 --------------------------------------------------------------------------------------------------------------------------------------------
@@ -57,3 +61,7 @@ https://github.com/user-attachments/assets/fa68ee7e-5859-41c0-b01b-d0dddc49a587
 A [Pen](https://codepen.io/Shannon-Amos/pen/bNbbwRP) by [Shannon Amos](https://codepen.io/Shannon-Amos) on [CodePen](https://codepen.io).
 
 [License](https://codepen.io/license/pen/bNbbwRP).
+
+https://github.com/user-attachments/assets/b6c4821a-8e7f-4e84-a4ac-f4cf099bc988
+
+
